@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Alan P Nath and I'm a developer.</h2>
+<h2 align="center">Hi 👋! My name is Alan P Nath and I'm a Developer.</h2>
 
 ###
 
@@ -43,7 +43,3 @@
   </a>
 </div>
 
-###
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/alan-pnath/alan-pnath/output/snake.svg" alt="Snake animation" />
