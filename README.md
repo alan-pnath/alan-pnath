@@ -39,6 +39,14 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+<div align="left">
+ <a href="https://twitter.com/alanpnath?t=WMxE7pq9g1PHttMtWr0aoQ&s=08" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
+ </a>
+ <a href="https://www.hackerrank.com/profile/alanpnath1999" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo" />
+ </a>
+</div>
 
 ###
 <br clear="both">
